@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="coinLv">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>40</item>
+        <item>80</item>
+        <item>160</item>
+        <item>320</item>
+        <item>640</item>
+        <item>1250</item>
+        <item>2500</item>
+        <item>5000</item>
+        <item>10000</item>
+    </integer-array>
+</resources>
